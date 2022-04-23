@@ -34,7 +34,7 @@ Estos servidores tendrán que ejecutar un sistema operativo y, en términos gene
 
 También es probable que necesitemos comunicarnos con otros servicios en nuestra red o entorno, por lo que también debemos tener ese nivel de conocimiento sobre las redes y la configuración, esto podría, hasta cierto punto, estar a cargo del ingeniero DevOps. Nuevamente, cubriremos esto con más detalle en una sección dedicada que habla de todo lo relacionado con DNS, DHCP, equilibrio de carga, etc. 
 
-## Jack de todos los oficios, maestro de nada
+## Aprendiz de todos los oficios, maestro de nada
 
 Sin embargo, diré en este punto que no necesita ser un especialista en redes o infraestructura, necesita un conocimiento básico de cómo hacer que las cosas funcionen y se comuniquen entre sí, muy parecido a tener un conocimiento básico de un lenguaje de programación, pero no es necesario ser un desarrollador. Sin embargo, es posible que ingrese a esto como especialista en un área y esa es una excelente base para adaptarse a otras áreas.
 
