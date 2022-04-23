@@ -14,7 +14,7 @@ Con suerte, usted está entrando aquí después de revisar los recursos del [Dí
 
 Se mencionó brevemente en la primera publicación, pero ahora debemos profundizar en este concepto y comprender que hay dos partes principales al crear una aplicación. Tenemos la parte de **Desarrollo** donde los desarrolladores de software programan la aplicación y la prueban. Luego tenemos la parte de **Operaciones** donde la aplicación se implementa y mantiene en un servidor.
 
-## DevOps es el vínculo entre los dos
+## DevOps es el vínculo entre los dos mundos
 
 Para familiarizarnos con DevOps o las tareas que llevaría a cabo un ingeniero de DevOps, debemos comprender las herramientas, el proceso y la descripción general de estos y cómo se combinan.
 
