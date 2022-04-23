@@ -42,7 +42,7 @@ Lo más probable es que tampoco se haga cargo de la administración de estos ser
 
 Hemos estado hablando de servidores, pero lo más probable es que su aplicación se desarrolle para ejecutarse como contenedores, que todavía se ejecutan en un servidor en su mayor parte, pero también necesitará comprender no solo la virtualización, la infraestructura de la nube como servicio (IaaS). ) pero también la contenerización. El enfoque en estos 90 días se centrará más en los contenedores.
 
-## Descripción general de alto nivel
+## Descripción General
 
 Por un lado, tenemos a nuestros desarrolladores creando nuevas características y funcionalidades (así como correcciones de errores) para la aplicación.
 
