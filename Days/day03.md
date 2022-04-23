@@ -67,7 +67,7 @@ Algunos aportes de la comunidad aquí específicamente [@_ediri](https://twitter
 
 El título de ingeniero de DevOps no debería ser el objetivo para nadie porque, en realidad, cualquier posición debería adoptar los procesos de DevOps y la cultura que se explica aquí. DevOps debe usarse en muchos puestos diferentes, como ingeniero/arquitecto nativo de la nube, administrador de virtualización, arquitecto/ingeniero de la nube, administrador de infraestructura. Esto es por nombrar algunos, pero la razón para usar DevOps Engineer arriba fue realmente para resaltar el alcance o el proceso utilizado por cualquiera de los puestos anteriores y más.
 
-## Resources 
+## Recursos 
 
 Siempre estoy abierto a agregar recursos adicionales a estos archivos Léame, ya que están aquí como una herramienta de aprendizaje.
 
