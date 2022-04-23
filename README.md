@@ -12,7 +12,7 @@ La razón para traducir este repositorio y documentar estos días es para que ot
 
 El objetivo es tomar 90 días, 1 hora cada día, para abordar más de 13 áreas de "DevOps" con un conocimiento basico o fundamental.
 
-Esto **no cubrirá todas las cosas** "DevOps", pero cubrirá las áreas que creo que beneficiarán mi aprendizaje y comprensión en general. 
+Esto **no cubrirá todas las cosas** de "DevOps", pero cubrirá las áreas que creo que beneficiarán mi aprendizaje y comprensión en general. 
 
 ## Progreso 
 
