@@ -79,6 +79,6 @@ Mi consejo es que mire todos los recursos y, con suerte, también haya aprendido
 - [Continuous Monitoring](https://www.youtube.com/watch?v=Zu53QQuYqJ0)
 - [The Remote Flow](https://www.notion.so/The-Remote-Flow-d90982e77a144f4f990c135f115f41c6)
 - [FinOps Foundation - What is FinOps](https://www.finops.org/introduction/what-is-finops/)
-- [**NOT FREE** The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO)
+- [**NOT FREE** The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
 
 Si llegaste hasta aquí, sabrás si aquí es donde quieres estar o no. Nos vemos el [Day 4](day04.md).  
