@@ -1,63 +1,63 @@
 ---
-title: '#90DaysOfDevOps - Introduction - Day 1'
+title: '#90DaysOfDevOps - Introducción - Día 1'
 published: true
-description: 90DaysOfDevOps - Introduction
+description: 90DaysOfDevOps - Introducción
 tags: 'devops, 90daysofdevops, learning'
 cover_image: null
 canonical_url: null
 id: 1048731
 date: '2022-04-17T10:12:40Z'
 ---
-## Introduction - Day 1 
+## Introducción - Día 1 
 
-Day 1 of our 90 days and adventure to learn a good foundational understanding of DevOps and tools that help with a DevOps mindset. 
+Día 1 de mis 90 días de aventura para una buena comprensión básica de DevOps y herramientas que ayudan con una mentalidad de DevOps.
 
-This learning journey started for me a few years back but my focus then was around virtualisation platforms and cloud based technologies, I was looking mostly into Infrastructure as Code and Application configuration management with Terraform and Chef. 
+Este viaje de aprendizaje comenzó para mí hace poco más de dos años, pero mi atención se centraba en la Ciberseguridad. Estaba investigando principalmente sobre temas de optmizacion de procesos y mejora continua para servicios defensivos, y en como integrar Sec en DevOps, para pasar a DevSecOps.
 
-Fast forward to March 2021, I was given an amazing opportunity to concentrate my efforts around the Cloud Native strategy at Kasten by Veeam. Which was going to be a massive focus on Kubernetes and DevOps and the community surrounding these technologies. I started my learning journey and quickly realised there was a very wide world aside from just learning the fundamentals of Kubernetes and Containerisation and it was then when I started speaking to the community and learning more and more about the DevOps culture, tooling and processes so I started documenting some of the areas I wanted to learn in public. 
+Avance mucho en temas de ciberseguridad defensiva y como optmizar los procesos para SOC, pero me sigue faltando el Sec en DevOps, así que comencé mi viaje de aprendizaje y rápidamente me di cuenta de que había un mundo muy amplio además de aprender los fundamentos de Kubernetes y Contenedores y fue entonces cuando comencé a hablar con la comunidad y a aprender más sobre la cultura, las herramientas y los procesos de DevOps, así que Empecé a documentar algunas de las áreas que quería aprender pero como soy poco creativo para escribir fue hasta que encontre este repositorio de Michael Cade no tenia idea por donde comenzar a documentar e incluso estaba perdido de como avanzar en algunos puntos, asi que ire dejando mis ptopios comentarios en luhar de solo compartir las oponiones de Michel a quien le doy las gracias por su aporte y su generosidad al comportir conocimientos con la comunidad.
 
-[So you want to learn DevOps?](https://blog.kasten.io/devops-learning-curve)
+[Entonces, ¿Quieres aprender de DevOps?](https://blog.kasten.io/devops-learning-curve)
 
-## Let the journey begin
+## Que comience el viaje
 
-If you read the above blog, you will see this is a high level contents for my learning journey and I will say at this point I am no where near an expert in any of these sections but what I wanted to do was share some resources both FREE and some paid for but an option for both as we all have different circumstances. 
+Si lee el blog anterior, verá que este es un contenido de alto nivel para mi viaje de aprendizaje y diré en este punto que no soy un experto en ninguna de estas secciones, pero lo que quería hacer era compartir algunos recursos ambos GRATIS y algunos pagados, pero una opción para ambos, ya que todos tenemos diferentes circunstancias.
 
-Over the next 90 days I want to document these resources and cover those foundational areas. I would love for the community to also get involved. Share your journey and resources so we can learn in public and help each other. 
+Durante los próximos 90 días quiero documentar estos recursos y cubrir esas áreas fundamentales. Me encantaría que la comunidad también se involucre. Comparta su viaje y recursos para que podamos aprender en público y ayudarnos unos a otros.
 
-You will see from the opening readme in the project repository that I have split things into sections and it is basically 12 weeks plus 6 days. The first 6 days we will explore the fundamentals of DevOps in general before diving into some of the specific areas. By no way is this list exhaustive and again,I would love for the community to assist in making this a useful resource. 
+Verá en el archivo Léame de apertura en el repositorio del proyecto que he dividido las cosas en secciones y son básicamente 12 semanas más 6 días. Los primeros 6 días exploraremos los fundamentos de DevOps en general antes de sumergirnos en algunas de las áreas específicas. De ninguna manera esta lista es exhaustiva y nuevamente, me encantaría que la comunidad ayudara a hacer de este un recurso útil.
 
-Another resource I will share at this point and that I think everyone should have a good look at, maybe create your own mind map for yourself and your interest and position, is the following: 
+Otro recurso que compartiré en este punto y que creo que todos deberían echar un buen vistazo, tal vez crear su propio mapa mental para usted y su interés y posición, es el siguiente:
 
 [DevOps Roadmap](https://roadmap.sh/devops)
 
-I found this a great resource when I was creating my initial list and blog post on this topic. You can also see there are other areas that go into a lot more detail outside of the 12 topics I have listed here in this repository. 
+Encontré este un gran recurso cuando estaba creando mi lista inicial y publicación de blog sobre este tema. También puede ver que hay otras áreas que entran en mucho más detalle fuera de los 12 temas que he enumerado aquí en este repositorio. Presten especial atención a este recurso, hay muchas pistas de las cosas que se deben aprender, pero en ningun caso un DevOps debe tener conocimeinto experto de todas las materias desplegadas en el roadmap, solo debes tener un claro entendimeinto de todas ellas.
 
-## First Steps - What is DevOps? 
+## Primeros pasos - ¿Qué es DevOps?
 
-There are so many blog articles and YouTube videos to list here, but as we start the 90 day challenge and we focus on spending around an hour a day learning something new or about DevOps, I thought it was good to get some of the high level of "what DevOps is" down to begin. 
+Hay tantos artículos en blogs y videos de YouTube para enumerar, pero a medida que comenzamos el desafío de 90 días y nos enfocamos en pasar alrededor de una hora al día aprendiendo algo nuevo o sobre DevOps, pensé que sería bueno obtener algo alto nivel. de "qué es DevOps" para comenzar.
 
-Firstly, DevOps is not a tool. You cannot buy it, it is not a software sku or an open source GitHub repository you can download. It is also not a programming language, it is also not some dark art magic either. 
+En primer lugar, DevOps no es una herramienta. No puede comprarlo, no es un sku de software o un repositorio de GitHub de código abierto que puede descargar. Tampoco es un lenguaje de programación, tampoco es una magia de arte oscuro.
 
-DevOps is a way to do smarter things in Software Development. - Hold up... But if you are not a software developer should you turn away right now and not dive into this project??? No. Not at all. Stay... Because DevOps brings together a combination of software development and operations. I mentioned earlier that I was more on the VM side and that would generally fall under the Operations side of the house, but within the community there are people with all different backgrounds where DevOps is 100% going to benefit the individual, Developers, Operations and QA Engineers all can equally learn these best practices by having a better understanding of DevOps. 
+DevOps es una forma de hacer las cosas más inteligentes en el desarrollo de software. - Espera... Pero si no eres un desarrollador de software, ¿¿¿deberías darte la vuelta ahora mismo y no sumergirte en este proyecto??? No, en absoluto. Quédate... Porque DevOps reúne una combinación de desarrollo de software y operaciones. Mencioné anteriormente que yo estaba más del lado de la Ciberseguridad y eso generalmente caería en el lado de Operaciones, pero dentro de la comunidad hay personas con diferentes antecedentes donde DevOps beneficiará al 100% al individuo, Desarrolladores, Operaciones y Todos los ingenieros de control de calidad pueden aprender por igual estas mejores prácticas si tienen una mejor comprensión de DevOps.
 
-DevOps is a set of practices that help to reach the goal of this movement: reducing the time between the ideation phase of a product and its release in production to the end-user or whomever it could be an internal team or customer. 
+DevOps es un conjunto de prácticas que ayudan a alcanzar el objetivo de este movimiento: reducir el tiempo entre la idea de un producto y su lanzamiento en producción al usuario final o a quien sea, un equipo interno o un cliente.
 
-Another area we will dive into in this first week is around **The Agile Methodology**. DevOps and Agile are widely adopted together to achieve continuous delivery of your **Application**. 
+Otra área en la que nos sumergiremos en esta primera semana es sobre **La Metodología Ágil**. DevOps y Agile se adoptan ampliamente juntos para lograr la entrega continua de su **Aplicación**.
 
-The high level take away is that a DevOps mindset or culture is about shrinking the long, drawn out software release process from potentially years to being able to drop smaller releases more frequently. The other key fundamental point to understand here is the the responsibility of a DevOps engineer to break down silos between the teams I previously mentioned: Developers, Operations and QA. 
+La moraleja de alto nivel es que una mentalidad o cultura de DevOps se trata de reducir el largo y extenso proceso de lanzamiento de software de potencialmente años para hacer lanzamientos más pequeños con más frecuencia. El otro punto fundamental clave que hay que entender aquí es la responsabilidad de un ingeniero de DevOps de romper los silos entre los equipos que mencioné anteriormente: desarrolladores, operaciones y control de calidad.
 
-From a DevOps perspective, **Development, Testing and Deployment** all land with the DevOps team. 
+Desde una perspectiva de DevOps, **Desarrollo, Pruebas e Implementación** todo aterriza en el equipo de DevOps.
 
-The final point I will make is to make this as effective and efficient as possible we must leverage **Automation**.
+El punto final que mencionaré es que para que esto sea lo más efectivo y eficiente posible, debemos aprovechar la **Automatización**.
 
-## Resources 
+## Recursos 
 
-I am always open to adding additional resources to these readme files as it is here as a learning tool.  
+Siempre estoy abierto a agregar recursos adicionales a estos archivos Léame, ya que están aquí como una herramienta de aprendizaje.
 
-My advice is to watch all of the below and hopefully you have also picked something up from the text and explanations above. 
+Mi consejo es que miren todos los contenidos y, con suerte, también haya aprendido algo del texto y las explicaciones anteriores.
 
 - [DevOps in 5 Minutes](https://www.youtube.com/watch?v=Xrgk023l4lI)
 - [What is DevOps? Easy Way](https://www.youtube.com/watch?v=_Gpe1Zn-1fE&t=43s)
 - [DevOps roadmap 2022 | Success Roadmap 2022](https://www.youtube.com/watch?v=7l_n97Mt0ko)
 
-If you made it this far, then you will know if this is where you want to be or not. See you on [Day 2](day02.md).  
+Si llegaste hasta aquí, entonces sabrás si aquí es donde quieres estar o no. Nos vemos el [Día 2](day02.md).
