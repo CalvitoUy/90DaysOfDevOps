@@ -4,7 +4,7 @@
  <img src="logo.png?raw=true" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
 </p>
 
-English Version | [Spanish Version] (spa/README.md)
+[Spanish Version]
 
 Este repositorio se usa para documentar mi viaje para obtener un mejor conocimiento básico de "DevOps", basado en la experiencia compartida por https://github.com/MichaelCade. Comence este viaje el 23 de Abril de 2022, la idea es que me tome 90 díaspara terminar el 22 de julio de 2022
 
