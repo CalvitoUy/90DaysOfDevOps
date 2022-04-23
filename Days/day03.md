@@ -6,26 +6,26 @@ tags: "devops, 90daysofdevops, learning"
 cover_image: null
 canonical_url: null
 id: 1048825
+date: '2022-04-23T10:12:40Z'
 ---
-## DevOps Lifecycle - Application Focused
+## Ciclo de Vida de DevOps - Centrado en la Aplicación
 
-As we continue through these next few weeks we are 100% going to come across these titles (Continuous Development, Testing, Deployment, Monitor) over and over again, If you are heading towards the DevOps Engineer role then repeatability will be something you will get used to but constantly enhancing each time is another thing that keeps things interesting. 
+A medida que avancemos durante las próximas semanas, nos encontraremos al 100 % con estos títulos (Desarrollo continuo, Pruebas, Implementación, Supervisión) una y otra vez. Si se dirige hacia el rol de Ingeniero DevOps, entonces la repetitivilidad será algo común, pero mejorando constantemente para mantener las cosas interesantes.
 
-In this hour we are going to take a look at the high level view of the application from start to finish and then back round again like a constant loop. 
+En esta hora vamos a echar un vistazo a la vista de alto nivel de la aplicación de principio a fin y luego daremos la vuelta nuevamente como un bucle constante.
 
-### Development 
-Let's take a brand new example of an Application, to start with we have nothing created, maybe as a developer you have to discuss with your client or end user on the requirements and come up with some sort of plan or requirements for your Application. We then need to create from the requirements our brand new application. 
+### Desarrollo
+Tomemos un ejemplo completamente nuevo de una aplicación, para empezar no tenemos nada creado, tal vez como desarrollador deba hablar con su cliente o usuario final sobre los requisitos y proponer algún tipo de plan o requisitos para su aplicación. Luego necesitamos crear a partir de los requisitos nuestra nueva aplicación.
 
-In regards to tooling at this stage there is no real requirement here other than choosing your IDE and the programming language you wish to use to write your application. 
+En lo que respecta a las herramientas en esta etapa, no hay ningún requisito real aparte de elegir su IDE y el lenguaje de programación que desea usar para escribir su aplicación.
 
-As a DevOps engineer, remember you are probably not the one creating this plan or coding the application for the end user, this will be a skilled developer. 
+Como ingeniero de DevOps, recuerde que probablemente no sea usted quien cree este plan o codifique la aplicación para el usuario final, este será un desarrollador experto.
 
-But it also would not hurt for you to be able to read some of the code so that you can make the best infrastructure decisions moving forward for your application.
+Pero tampoco le vendría mal poder leer parte del código para que pueda tomar las mejores decisiones de infraestructura para su aplicación.
 
-We previously mentioned that this application can be written in any language. Importantly this should be maintained using a version control system, this is something we will cover also in detail later on and in particular we will dive into **Git**. 
+Anteriormente mencionamos que esta aplicación se puede escribir en cualquier lenguaje. Es importante que esto se mantenga usando un sistema de control de versiones, esto es algo que también cubriremos en detalle más adelante y, en particular, nos sumergiremos en **Git**.
 
-It is also likely that it will not be one developer working on this project although this could be the case but even so best practices would require a code repository to store and collaborate on the code, this could be private or public and could be hosted or privately deployed generally speaking you would hear the likes of **GitHub or GitLab** being used as a code repository. Again we will cover these as part of our section on **Git** later on. 
-
+También es probable que no haya un solo desarrollador trabajando en este proyecto, aunque este podría ser el caso, pero aun así las mejores prácticas requerirían un repositorio de código para almacenar y colaborar en el código, esto podría ser privado o público y podría estar alojado o implementado de forma privada, en términos generales, **GitHub o GitLab** se usan como repositorio de código. Una vez más, los cubriremos como parte de nuestra sección sobre **Git** más adelante.
 
 ### Testing 
 At this stage we have our requirements and we have our application being developed. But we need to make sure we are testing our code in all the various different environments that we have available to us or specifically maybe to the programming language chosen. 
