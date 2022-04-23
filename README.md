@@ -4,37 +4,37 @@
  <img src="logo.png?raw=true" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
 </p>
 
-English Version | [中文版本](zh_cn/README.md) | [繁體中文版本](zh_tw/README.md)
+English Version | [Spanish Version] (spa/README.md)
 
-This repository is used to document my journey on getting a better foundational knowledge of "DevOps". I will be starting this journey on the 1st January 2022 but the idea is that we take 90 days which just so happens to be January 1st to March 31st. 
+Este repositorio se usa para documentar mi viaje para obtener un mejor conocimiento básico de "DevOps", basado en la experiencia compartida por https://github.com/MichaelCade. Comence este viaje el 23 de Abril de 2022, la idea es que me tome 90 díaspara terminar el 22 de julio de 2022
 
-The reason for documenting these days is so that others can take something from it and also hopefully enhance the resources. 
+La razón para traducir este repositorio y documentar estos días es para que otros puedan tomar algo de ellos y también, con suerte, mejorar los recursos.
 
-The goal is to take 90 days, 1 hour each a day, to tackle over 13 areas of "DevOps" to a foundational knowledge. 
+El objetivo es tomar 90 días, 1 hora cada día, para abordar más de 13 áreas de "DevOps" con un conocimiento basico o fundamental.
 
-This will **not cover all things** "DevOps" but it will cover the areas that I feel will benefit my learning and understanding overall. 
+Esto **no cubrirá todas las cosas** "DevOps", pero cubrirá las áreas que creo que beneficiarán mi aprendizaje y comprensión en general. 
 
-## Progress 
+## Progreso 
 
-- [✔️] ♾️ 1 > [Introduction](Days/day01.md)
+- [✔️] ♾️ 1 > [Introducción](Days/day01.md)
 
-### What is and why do we use DevOps
+### Que es y por qué usamos DevOps
 
-- [✔️] ♾️ 2 > [Responsibilities of a DevOps Engineer](Days/day02.md)
-- [✔️] ♾️ 3 > [DevOps Lifecycle - Application Focused](Days/day03.md)
+- [✔️] ♾️ 2 > [Responsabilidades de un ingeniero de DevOps](Days/day02.md)
+- [✔️] ♾️ 3 > [Ciclo de vida de DevOps: Centrado en la Aplicación](Days/day03.md)
 - [✔️] ♾️ 4 > [DevOps & Agile](Days/day04.md)
 - [✔️] ♾️ 5 > [Plan > Code > Build > Testing > Release > Deploy > Operate > Monitor >](Days/day05.md)
-- [✔️] ♾️ 6 > [DevOps - The real stories](Days/day06.md)
+- [✔️] ♾️ 6 > [DevOps - Historias Verdaderas](Days/day06.md)
 
-### Learning a Programming Language
+### Aprendiendo un Lenguaje de Programación
 
-- [✔️] ⌨️ 7 > [The Big Picture: DevOps & Learning a Programming Language](Days/day07.md)
-- [✔️] ⌨️ 8 > [Setting up your DevOps environment for Go & Hello World](Days/day08.md)
-- [✔️] ⌨️ 9 > [Let's explain the Hello World code](Days/day09.md)
-- [✔️] ⌨️ 10 > [The Go Workspace & Compiling & running code](Days/day10.md)
-- [✔️] ⌨️ 11 > [Variables, Constants & Data Types](Days/day11.md)
-- [✔️] ⌨️ 12 > [Getting user input with Pointers and a finished program](Days/day12.md)
-- [✔️] ⌨️ 13 > [Tweet your progress with our new App](Days/day13.md)
+- [✔️] ⌨️ 7 > [Panorama General: DevOps & Aprendiendo un Lenguaje de Programación](Days/day07.md)
+- [✔️] ⌨️ 8 > [Configuración un entorno DevOps para Go & Hello World](Days/day08.md)
+- [✔️] ⌨️ 9 > [Expliquemos el código de Hello World](Days/day09.md)
+- [✔️] ⌨️ 10 > [El espacio de trabajo de Go y el código de compilación y ejecución](Days/day10.md)
+- [✔️] ⌨️ 11 > [Variables, Constantes y Tipo de Datos](Days/day11.md)
+- [✔️] ⌨️ 12 > [Obtener la entrada del usuario con punteros y un programa terminado](Days/day12.md)
+- [✔️] ⌨️ 13 > [Tuitea tu progreso con nuestra nueva aplicación](Days/day13.md)
 
 ### Knowing Linux Basics
 
