@@ -6,7 +6,7 @@
 
 [Spanish Version]
 
-Este repositorio se usa para documentar mi viaje para obtener un mejor conocimiento básico de "DevOps", basado en la experiencia compartida por https://github.com/MichaelCade. Comence este viaje el 23 de Abril de 2022, la idea es que me tome 90 díaspara terminar el 22 de julio de 2022
+Usare este repositorio para documentar mi viaje en la busqueda por obtener un conocimiento básico de "DevOps", basado en la experiencia compartida por https://github.com/MichaelCade. Comence este viaje el 23 de Abril de 2022, la idea es que me tome 90 díaspara terminar el 22 de julio de 2022
 
 La razón para traducir este repositorio y documentar estos días es para que otros puedan tomar algo de ellos y también, con suerte, mejorar los recursos.
 
