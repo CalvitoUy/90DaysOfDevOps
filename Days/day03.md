@@ -1,6 +1,6 @@
 ---
 title: '#90DaysOfDevOps - Application Focused - Day 3'
-published: false
+published: true
 description: 90DaysOfDevOps - Application Focused
 tags: "devops, 90daysofdevops, learning"
 cover_image: null

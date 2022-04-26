@@ -1,6 +1,6 @@
 ---
 title: '#90DaysOfDevOps - Responsabilidades de un Ingeniero DevOps - Día 2'
-published: false
+published: true
 description: 90DaysOfDevOps - Responsibilities of a DevOps Engineer
 tags: 'devops, 90daysofdevops, learning'
 cover_image: null

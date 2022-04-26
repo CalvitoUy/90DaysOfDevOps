@@ -6,10 +6,11 @@ tags: "devops, 90daysofdevops, learning"
 cover_image: null
 canonical_url: null
 id: 1048830
+date: '2022-04-26T10:12:40Z'
 ---
 ## Plan > Code > Build > Testing > Release > Deploy > Operate > Monitor > 
 
-Today we are going to focus on the individual steps from start to finish and the continous cycle of an Application in a DevOps world. 
+Hoy nos vamos a centrar en los pasos individuales de principio a fin y el ciclo continuo de una aplicación en un mundo DevOps. 
 
 ![DevOps](Images/Day5_DevOps8.png)
 

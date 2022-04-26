@@ -1,6 +1,6 @@
 ---
 title: '#90DaysOfDevOps - DevOps & Agile - Day 4'
-published: false
+published: true
 description: 90DaysOfDevOps - DevOps & Agile
 tags: 'devops, 90daysofdevops, learning'
 cover_image: null
