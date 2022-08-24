@@ -28,32 +28,31 @@ Aquí es donde iniciaremos el primero de nuestros procesos de automatización, t
 
 ## Testing:
 
-Once we've built it we're going to run some tests on it now the development team usually writes the test you may have some input in what tests get written but we need to run those tests and the testing is a way for us to try and minimise introducing problems out into production, it doesn't guarantee that but we want to get as close to a guarantee as we can that were one not introducing new bugs and two not breaking things that used to work
+Una vez que lo hayamos construido, vamos a ejecutar algunas pruebas en él. Ahora, el equipo de desarrollo generalmente escribe la prueba. Es posible que tenga alguna información sobre qué pruebas se escriben, pero necesitamos ejecutar esas pruebas y las pruebas son una forma para intentar y minimizar la introducción de problemas/errores al ambiente de producción, no lo garantiza, pero nos acercaremos lo más posible a una garantía de que uno no introduce nuevos errores y dos no rompe cosas que solían funcionar
 
 ## Release:
 
-Once those tests pass we're going to do the release process and depending again on what type of application you're working on this may be a non-step. You know the code may just live in the GitHub repo or the git repository or wherever it lives but it may be the process of taking your compiled code or the docker image that you've built and putting it into a registry or a repository where it's accessible by your production servers for the deployment process 
+Una vez que pasen las pruebas, haremos el proceso de lanzamiento y, dependiendo nuevamente del tipo de aplicación en la que esté trabajando, esto puede no ser necesario. Usted sabe que el código puede vivir en el repositorio de GitHub o en el repositorio de git o dondequiera que viva, pero puede ser el proceso de tomar su código compilado o la imagen de Docker que ha creado y colocarlo en un registro o un repositorio donde está accesible por sus servidores de producción para el proceso de implementación.
 
 ## Deploy:
 
-which is the thing that we do next because deployment is like the end game of this whole thing because deployments when we put the code into production and it's not until we do that that our business actually realizes the value from all the time effort and hard work that you and the software engineering team have put into this product up to this point. 
+Es lo que hacemos a continuación porque la implementación es como el juego final de todo esto porque las implementaciones cuando ponemos el código en producción y no es hasta que lo hacemos que nuestra empresa realmente se da cuenta del valor de todo el esfuerzo y el trabajo duro, que usted y el equipo de ingeniería de software han puesto en este producto hasta este momento. 
 
 ## Operate:
 
-Once it's deployed we are going to operate it and operate it may involve something like you start getting calls from your customers that they're all annoyed that the site's running slow or their application is running slow right so you need to figure out why that is and then possibly build auto-scaling you know to handle increase the number of servers available during peak periods and decrease the number of servers during off-peak periods either way that's all operational type metrics, another operational thing that you do is include like a feedback loop from production back to your ops team letting you know about key events that happened in production such as a deployment back one step on the deployment thing this may or may not get automated depending on your environment the goal is to always automate it when possible there are some environments where you possibly need to do a few steps before you're ready to do that but ideally you want to deploy automatically as part of your automation process but if you're doing that it might be a good idea to include in your operational steps some type of notification so that your ops team knows that a deployment has happened 
+Una vez que esté implementado, vamos a operarlo y esto puede implicar recibir llamadas de sus clientes que están molestos porque el sitio o aplicación funciona lentamente y debe averiguar por qué, posiblemente deba crear un escalado automático que aumente la cantidad de servidores disponibles durante los períodos de mayor actividad y disminuya la cantidad de servidores durante los períodos de menor actividad, de cualquier manera, todas son métricas operativas. Otra cosa operativa que debe hacer es incluir comentarios desde producción a su equipo de operaciones, para informarle sobre los eventos clave que ocurrieron en producción, como eventos claves de la implementación, retroceder un paso en la implementación, entre otros datos relevantes. Esto puede automatizarse o no según su entorno, el objetivo es automatizarlo siempre cuando sea posible hay algunos entornos en los que posiblemente necesite realizar algunos pasos antes de estar listo para esto, pero idealmente desea implementar automatización como parte de su proceso de implementación, pero si lo está haciendo, podría ser una buena idea incluir en sus pasos operativos algún tipo de notificación para que su equipo de operaciones sepa que se ha producido una implementación.
 
 ## Monitor:
 
-All of the above parts lead to the final step because you need to have monitoring, especially around operational issues auto-scaling troubleshooting like you don't know
-there's a problem if you don't have monitoring in place to tell you that there's a problem so some of the things you might build monitoring for are memory utilization CPU utilization disk space, api endpoint,  response time,  how quickly that endpoint is responding and a big part of that as well is logs. Logs give developers the ability to see what is happening without having to access production systems. 
+Todas las partes anteriores conducen al paso final, se requiere tener monitoreo, especialmente entorno a problemas operativos, por ejemplo, resolución de problemas de escalado automático. Algunas de las cosas para las que podría crear un monitoreo son la utilización de la memoria, la utilización del espacio en disco de la CPU, API’s, el tiempo de respuesta, la rapidez con la que responde ese punto final y una gran parte de eso también son registros. Los registros brindan a los desarrolladores la capacidad de ver lo que sucede sin tener que acceder a los sistemas de producción.
 
 ## Rince & Repeat: 
 
-Once that's in place you go right back to the beginning to the planning stage and go through the whole thing again
+Una vez que esté en su lugar, regrese directamente al principio a la etapa de planificación y vuelva a pasar por todo el proceso.
 
 ## Continuous:
 
-Many tools help us achieve the above continuous process, all this code and the ultimate goal of being completely automated, cloud infrastructure or any environment is often described as Continuous Integration/ Continuous Delivery/Continous Deployment or “CI/CD” for short. We will spend a whole week on CI/CD later on in the 90 Days with some examples and walkthroughs to grasp the fundamentals. 
+Muchas herramientas nos ayudan a lograr el proceso continuo anterior, todo este código y el objetivo final de estar completamente automatizado, la infraestructura en la nube o cualquier entorno a menudo se describe como Integración continua/Entrega continua/Implementación continua o “CI/CD” para abreviar. Pasaremos una semana entera en CI/CD más adelante en los 90 días con algunos ejemplos y tutoriales para comprender los fundamentos.
 
 ### Continuous Delivery:
 
@@ -61,21 +60,21 @@ Continuous Delivery = Plan > Code > Build > Test
 
 ### Continuous Integration:
 
-This is effectively the outcome of the Continuous Delivery phases above plus the outcome of the Release phase. This is the case for both failure and success but this is fed back into continuous delivery or moved to Continuous Deployment. 
+Este es efectivamente el resultado de las fases de entrega continua más el resultado de la fase de lanzamiento. Este es el caso tanto para el fracaso como para el éxito, pero esto se retroalimenta en la entrega continua o se traslada a la implementación continua.
 
 Continuous Integration = Plan > Code > Build > Test > Release 
 
 ### Continuous Deployment: 
 
-If you have a successful release from your continuous integration then move to Continuous Deployment which brings in the following phases 
+Si tiene una versión exitosa de su integración continua, pase a la implementación continua, que incluye las siguientes fases
 
-CI Release is Success = Continuous Deployment = Deploy > Operate > Monitor 
+La versión de CI es correcta = Implementación continua = Implementar > Operar > Supervisar
 
-You can see these three Continuous notions above as the simple collection of phases of the DevOps Lifecycle. 
+Puede ver estas tres nociones continuas anteriores como la simple colección de fases del ciclo de vida de DevOps.
 
-This last bit was a bit of a recap for me on Day 3 but think this actually makes things clearer for me. 
+Esto último fue un resumen para mí del día 3, pero creo que en realidad me aclara las cosas.
 
-### Resources:
+### Recursos:
 
 - [DevOps for Developers – Software or DevOps Engineer?](https://www.youtube.com/watch?v=a0-uE3rOyeU)
 - [Techworld with Nana -DevOps Roadmap 2022 - How to become a DevOps Engineer? What is DevOps? ](https://www.youtube.com/watch?v=9pZ2xmsSDdo&t=125s)
