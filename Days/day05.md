@@ -82,4 +82,4 @@ Esto último fue un resumen para mí del día 3, pero creo que en realidad me ac
 
 If you made it this far then you will know if this is where you want to be or not. 
 
-See you on [Day 6](day06.md). 
+Nos vemos en el [Día 6](day06.md). 
