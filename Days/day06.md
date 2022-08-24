@@ -7,49 +7,46 @@ cover_image: null
 canonical_url: null
 id: 1048855
 ---
-## DevOps - The real stories 
+## DevOps - Historias reales
 
-DevOps to begin with was seen to be out of reach for a lot of us as we didn't have an environment or requirement anything like a Netflix or fortune 500 but think now that is beginning to sway into the normal when adopting a DevOps practice within any type of business. 
+Para comenzar, se consideró que DevOps estaba fuera del alcance de muchos de nosotros, ya que no teníamos un entornos o requerimientos como Netflix o Fortune 500, pero ahora está comenzando a volverse normal al adoptar una práctica de DevOps en cualquier tipo de negocio.
 
-You will see from the second link below in references there are a lot of different industries and verticals using DevOps and having a hugely positive effect on their business objectives. 
+En el segundo enlace a continuación hay referencias de muchas industrias y verticales diferentes que utilizan DevOps y tienen un efecto enormemente positivo en sus objetivos comerciales.
 
-Obviously the overarching benefit here is DevOps if done correctly should help your Business improve the speed and quality of software development. 
+Obviamente, el beneficio general aquí es DevOps, si se realiza correctamente, debería ayudar a su empresa a mejorar la velocidad y la calidad del desarrollo de software.
 
-I wanted to take this Day to look at succesful companies that have adopted a DevOps practice and share some resources around this, This will be another great one for the community to also dive in and help here. Have you adopted a DevOps culture in your business? Has it been successful? 
+Quería aprovechar este día para analizar las empresas exitosas que han adoptado una práctica de DevOps y compartir algunos recursos al respecto. Este será otro gran día para que la comunidad también se sumerja y ayude aquí. ¿Ha adoptado una cultura DevOps en su negocio? ¿Ha tenido éxito?
 
-I mentioned Netflix above and will touch on them again as it is a very good model and advanced to what we generally see today even still but will also mention some other big name brands that are succeeding it seems. 
+Mencioné Netflix arriba y los mencionaré nuevamente, ya que es un modelo muy bueno y avanzado a lo que generalmente vemos hoy en día, pero también mencionaré algunas otras marcas de renombre que parecen tener éxito.
 
 ## Amazon 
-In 2010 Amazon moved their physical server footprint to Amazon Web Services (AWS) cloud this allowed them to save resources by scaling capacity up and down in very small increments. We also know that this AWS cloud would go on and make a huge amount of revenue itself whilst still running the Amazon retail branch of the company. 
+En 2010, Amazon trasladó sus servidores físicos a la nube de Amazon Web Services (AWS), lo que les permitió ahorrar recursos al aumentar y reducir la capacidad en incrementos muy pequeños. También sabemos que esta nube de AWS continuaría y generaría una gran cantidad de ingresos por sí misma mientras aún administra la sucursal minorista de Amazon de la empresa.
 
-Amazon adopted in 2011 (According to the resource below) a continued deployment process where their developers could deploy code whenever they want and to whatever servers they needed. This enabled Amazon to achieve deploying new software to production servers on average every 11.6 seconds! 
+Amazon adoptó en 2011 (según el recurso a continuación) un proceso de implementación continuo en el que sus desarrolladores podían implementar el código cuando quisieran y en los servidores que necesitaran. ¡Esto permitió a Amazon lograr implementar un nuevo software en los servidores de producción en promedio cada 11,6 segundos!
 
 ## Netflix 
-Who doesn't use Netflix? obviously a huge quality streaming service with by all accounts at least personally a great user experience. 
+¿Quién no usa Netflix? obviamente, un servicio de transmisión de gran calidad con todas las cuentas, al menos personalmente, una gran experiencia de usuario.
 
-Why is that user experience so great? Well the ability to deliver a service with no recollected memory for me at least of glitches requires speed, flexibility, and attention to quality. 
+¿Por qué esa experiencia de usuario es tan buena? Bueno, la capacidad de brindar un servicio sin fallas para mí requiere velocidad, flexibilidad y atención a la calidad.
 
-NetFlix developers can automatically build pieces of code into deployable web images without relying on IT operations. As the images are updated, they are integrated into Netflix’s infrastructure using a custom-built, web-based platform.
+Los desarrolladores de NetFlix pueden crear automáticamente fragmentos de código en imágenes web implementables sin depender de las operaciones de TI. A medida que las imágenes se actualizan, se integran en la infraestructura de Netflix mediante una plataforma web personalizada.
 
-Continous Monitoring is in place so that if the deployment of the images fails, the new images are rolled back and traffic rerouted to the previous version. 
+El monitoreo continuo está implementado para que, si falla la implementación de las imágenes, las nuevas imágenes se reviertan y el tráfico se redirija a la versión anterior.
 
-There is a great talk listed below that goes into more about the DOs and DONTs that Netflix live and die by within their teams. 
+Hay una gran charla que se enumera a continuación que trata más sobre los SÍ y los NO por los que Netflix vive y muere dentro de sus equipos.
 
 ## Etsy 
-As with many of us and many companies there was a real struggle around slow and painful deployments. In the same vein we might have also experienced working in companies that have lots of siloes and teams that are not really working well together. 
+Al igual que muchos de nosotros y muchas empresas, hubo una verdadera lucha en torno a las implementaciones lentas y dolorosas. De la misma manera, también podríamos haber experimentado trabajar en empresas que tienen muchos silos y equipos que realmente no están trabajando bien juntos.
 
-From what I can make out at least from reading about Amazon and Netflix, Etsy might have adopted the letting developers deploy their own code around the end of 2009 which might have been before the other two mentioned. (interesting!) 
+Por lo que puedo deducir al menos al leer sobre Amazon y Netflix, Etsy podría haber adoptado la opción de permitir que los desarrolladores implementaran su propio código a finales de 2009, lo que podría haber sido antes de los otros dos mencionados. (¡interesante!)
 
-An interesting take away I read here was that they realised that when developers feel responsibility for deployment they also would take responsibility for application performance, uptime and other goals. 
+Una conclusión interesante que leí aquí fue que se dieron cuenta de que cuando los desarrolladores sienten la responsabilidad de la implementación, también asumirían la responsabilidad del rendimiento de la aplicación, el tiempo de actividad y otros objetivos.
 
+La cultura de aprendizaje es una parte clave de DevOps, incluso el fracaso puede ser un éxito si se aprenden las lecciones. (No estoy seguro de dónde vino esta cita, ¡pero tiene sentido!)
 
+He agregado algunas otras historias donde DevOps ha cambiado el juego dentro de algunas de estas empresas de gran éxito.
 
-A learning culture is a key part to DevOps, even failure can be a success if lessons are learned. (not sure where this quote actually came from but it kind of makes sense!)
-
-I have added some other stories where DevOps has changed the game within some of these massively successful companies. 
-
-
-## Resources 
+## Recursos 
 
 - [How Netflix Thinks of DevOps](https://www.youtube.com/watch?v=UTKIT6STSVM)
 - [16 Popular DevOps Use Cases & Real Life Applications [2021]](https://www.upgrad.com/blog/devops-use-cases-applications/)
@@ -59,16 +56,16 @@ I have added some other stories where DevOps has changed the game within some of
 - [Interplanetary DevOps at NASA JPL](https://www.usenix.org/conference/lisa16/technical-sessions/presentation/isla)
 - [Target CIO explains how DevOps took root inside the retail giant](https://enterprisersproject.com/article/2017/1/target-cio-explains-how-devops-took-root-inside-retail-giant)
 
-### Recap of our first few days looking at DevOps
+### Resumen de nuestros primeros días analizando DevOps
 
-- DevOps is a combo of Development and Operations that allows a single team to manage the whole application development lifecycle that consists of **Development**, **Testing**, **Deployment**, **Operations**. 
+- DevOps es una combinación de Desarrollo y Operaciones que permite que un solo equipo administre todo el ciclo de vida de desarrollo de aplicaciones que consiste en **Desarrollo**, **Pruebas**, **Implementación**, **Operaciones**.
 
-- The main focus and aim of DevOps is to shorten the development lifecycle while delivering features, fixes and functionality frequently in close alignment with business objectives. 
+- El enfoque principal y el objetivo de DevOps es acortar el ciclo de vida del desarrollo y, al mismo tiempo, ofrecer características, correcciones y funcionalidades frecuentemente en estrecha alineación con los objetivos comerciales.
 
-- DevOps is a software development approach through which software can be delivered and developed reliably and quickly. You may also see this referenced as **Continuous Development, Testing, Deployment, Monitoring**
+- DevOps es un enfoque de desarrollo de software a través del cual el software se puede entregar y desarrollar de manera confiable y rápida. También puede ver esto mencionado como **Desarrollo continuo, Pruebas, Implementación, Monitoreo**
 
-If you made it this far then you will know if this is where you want to be or not. See you on [Day 7](day07.md). 
+Si llegaste hasta aquí, sabrás si aquí es donde quieres estar o no. Nos vemos el [Día 7](day07.md).
 
-Day 7 will be us diving into a programming language, I am not aiming to be a developer but I want to be able to understand what the developers are doing. 
+El día 7 nos sumergiremos en un lenguaje de programación, no pretendo ser un desarrollador, pero quiero poder entender lo que están haciendo los desarrolladores.
 
-Can we achieve that in a week? Probably not but if we spend 7 days or 7 hours learning something we are going to know more than when we started.   
+¿Podemos lograr eso en una semana? Probablemente no, pero si pasamos 7 días o 7 horas aprendiendo algo vamos a saber más que cuando empezamos.
