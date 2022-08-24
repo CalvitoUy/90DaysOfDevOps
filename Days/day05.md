@@ -16,15 +16,15 @@ Hoy nos vamos a centrar en los pasos individuales de principio a fin y el ciclo 
 
 ### Plan:
 
-It all starts with the planning process this is where the development team gets together and figure out what types of features and bug fixes that they're going to roll out in their next sprint. This is an opportunity as a DevOps Engineer for you to get involved with that and learn what kinds of things are going to be coming your way that you need to be involved with and also influence their decisions or their path and kind of help them work with the infrastructure that you've built or steer them towards something that's going to work better for them in case they're not on that path and so one key thing to point out here is the developers or software engineering team is your customer as a DevOps engineer so this is your opportunity to work with your customer before they go down a bad path.
+Todo comienza con el proceso de planificación, aquí es donde el equipo de desarrollo se reúne y determina qué características y correcciones de errores implementarán en su próximo sprint. Como ingeniero de DevOps esta es una oportunidad para involucrarse y aprender qué tipo de cosas se le presentarán en las que debe involucrarse y también influir en sus decisiones o su camino y ayudarlos a trabajar con la infraestructura que ha construido o guiarlos hacia algo que funcionará mejor para ellos y, por lo tanto, una cosa clave para señalar aquí es que los desarrolladores o el equipo de ingeniería de software es su cliente como ingeniero DevOps, por lo que esta es su oportunidad de trabajar con su cliente antes de que tome un mal camino.
 
 ### Code:
 
-Now once that planning session's done they're going to go start writing the code you may or may not be involved a whole lot with this one of the places you may get involved with it, is whenever they're writing code you can help them better understand the infrastructure so if they know what services are available and how to best talk with those services so they're going to do that and then once they're done they'll merge that code into the repository 
+Ahora, una vez que termine la sesión de planificación, comenzarán a escribir el código. Es posible que participe o no en esta etapa. Uno de los lugares en los que puede involucrarse, siempre que estén escribiendo código, es en ayudarlos a comprender mejor la infraestructura, de modo que si saben qué servicios están disponibles y cuál es la mejor forma de hablar con esos servicios, lo harán y luego una vez que hayan terminado fusionarán ese código en el repositorio de mejor forma.
 
 ### Build:
 
-This is where we'll kick off the first of our automation processes because we're going to take their code and we're going to build it depending on what language they're using it may be transpiling it or compiling it or it might be creating a docker image from that code either way we're going to go through that process using our ci cd pipeline 
+Aquí es donde iniciaremos el primero de nuestros procesos de automatización, tomaremos su código y lo construiremos dependiendo del lenguaje que estén usando, puede interpretarlos o compilarlo o podría estar creando una imagen docker a partir de ese código, de cualquier manera vamos a pasar por ese proceso usando nuestro pipeline CI/CD
 
 ## Testing:
 

@@ -1,6 +1,6 @@
 ---
 title: '#90DaysOfDevOps - DevOps - The real stories - Day 6'
-published: false
+published: true
 description: 90DaysOfDevOps - DevOps - The real stories
 tags: 'devops, 90daysofdevops, learning'
 cover_image: null
